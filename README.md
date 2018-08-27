@@ -1,2 +1,2 @@
 # TB4Image
-Image processing for TrackBe4
+An image processing library for TrackBe4
